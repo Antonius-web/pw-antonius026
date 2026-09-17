@@ -1,2 +1,2 @@
 # pw-antonius026
-Repository katihan pertemuan 1 
+Repository Latihan Pertemuan 1 
